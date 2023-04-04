@@ -1,0 +1,13 @@
+button{
+    height: 30px; width: 150px;border-radius: 5px;
+}
+#rand{
+    margin-top: 20px;
+}
+#but1{
+    background: white; font-size: 18px;
+}
+#but2{
+    background: white;font-size: 18px;
+}
+#out{ margin-left: 250px; margin-top: 80px; color: red; position: absolute; font-size: 32px; font-family: Arial}
